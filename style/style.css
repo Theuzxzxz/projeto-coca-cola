@@ -1,0 +1,91 @@
+body{
+    background-color: #A5373B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: #c2c2c2;
+    text-align: center;
+}
+
+#coca-cola-zero{
+    margin-top: 30px;
+    margin: auto;
+    background-color: #503536 ;
+    padding: 5px;
+    width: 900px;
+}
+
+#coca-cola-zero h1{
+    text-align: center;
+    color: #fff;
+}
+
+#zero{
+    color: black;
+}
+
+#coca-cola-normal{
+    margin: auto;
+    background-color: #503536;
+    padding: 5px;
+    width: 900px;
+    margin-top: 20px;
+}
+
+#coca-cola-normal h1{
+    text-align: center;
+    color: #fff;
+}
+
+#normal{
+    color: #da1b21;
+}
+
+.imagem-coca{
+    display: block;
+    margin: auto;
+}
+
+#bio-coca{
+    width: 870px;
+    margin: 40px auto;
+    background-color: #503536;
+    padding: 20px;
+}
+
+#dono-coca{
+    width: 350px;
+    border-radius: 100%;
+}
+
+#fundador-coca{
+    text-align: center;
+}
+
+#bio-fundador{
+    background-color: #503536;
+    width: 1000px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+#coca-cola-zero:hover{
+    background-color: #5e2224;
+    transition: 0.3s;
+}
+
+#coca-cola-normal:hover{
+    background-color: #5e2224;
+    transition: 0.3s;
+}
+
+#bio-coca:hover{
+    background-color: #5e2224;
+    transition: 0.3s;
+}
+
+#bio-fundador:hover{
+    background-color: #5e2224;
+    transition: 0.3s;
+}
